@@ -1,0 +1,20 @@
+# Veggies
+kale
+parsnips
+spinach
+carrots
+potatoes
+
+# Fruits
+apple
+mango
+banana
+oranges
+grapes
+
+# Animals
+dog
+cat
+chicken
+cow
+pig
